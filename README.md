@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
 run more scripts
 
 In the project directory, you can run:
@@ -74,3 +75,4 @@ Failed to run the code will update soon.
 
 Json packages updated.
 unable to run the code!!
+Two errors shown by spell checker
