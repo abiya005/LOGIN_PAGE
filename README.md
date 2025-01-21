@@ -76,7 +76,6 @@ Failed to run the code will update soon.
 Json packages updated.
 unable to run the code!!
 Two errors shown by spell checker
-Errors are corected
+Errors are corrected
 Running successfully
 Updates to the code will be made soon.
-
