@@ -5,17 +5,17 @@ import { FaUser, FaLock } from "react-icons/fa";
 
 const LoginRegister = () => {
   return (
-    <div classname='wrapper'>
+    <div className='wrapper'>
       <div className="form-box login">
         <form action="">
           <h1>Login</h1>
           <div className="input-box">
             <input type="text" placeholder='Username' required />
-            <FaUser classname="icon"/>
+            <FaUser className="icon"/>
           </div>
           <div className="input-box">
             <input type="password" placeholder='Password' required />
-            <FaLock classname="icon"/>
+            <FaLock className="icon"/>
           </div>
           <div className="remember-forget">
             <label><input type="checkbox"/>Remind me</label><a href="#">  Forgot Password ?</a>
