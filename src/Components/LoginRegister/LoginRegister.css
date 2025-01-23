@@ -119,4 +119,5 @@ form .register-link {
 
 .register-link p a:hover {
     text-decoration: underline;
+    color:#0c241e; /*chumma*/
 }
