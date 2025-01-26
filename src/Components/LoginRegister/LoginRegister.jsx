@@ -64,4 +64,4 @@ const LoginRegister = () => {
   )
 }
 
-export default LoginRegister
+export default LoginRegister/*chumma*/
