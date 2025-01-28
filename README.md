@@ -82,4 +82,4 @@ Updates to the code will be made soon.
 updated too much.
 drastic changes using react.
 Project will get over soon.
-exams coming
+exams coming up
