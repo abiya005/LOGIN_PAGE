@@ -65,4 +65,3 @@ const LoginRegister = () => {
 }
 
 export default LoginRegister
-//shift
