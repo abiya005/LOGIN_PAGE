@@ -74,7 +74,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Failed to run the code will update soon.
 
 Json packages updated.
-Two errors shown by spell checker
 Errors are corrected
 Running successfully
 Updates to the code will be made soon.
