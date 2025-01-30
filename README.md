@@ -76,7 +76,6 @@ Failed to run the code will update soon.
 Json packages updated.
 Errors are corrected
 Running successfully
-Updates to the code will be made soon.
 drastic changes using react.
 Project will get over soon.
 exams coming up soon
