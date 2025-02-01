@@ -78,5 +78,5 @@ Errors are corrected
 Running successfully
 drastic changes using react.
 Project will get over soon.
-exams coming up soon
+
 
