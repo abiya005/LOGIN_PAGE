@@ -78,7 +78,6 @@ Errors are corrected
 Running successfully
 good progress
 ......
-,,,,
 
 
 
