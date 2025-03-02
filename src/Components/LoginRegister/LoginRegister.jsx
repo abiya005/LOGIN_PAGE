@@ -62,6 +62,4 @@ const LoginRegister = () => {
     </div>
   )
 }
-
-
 export default LoginRegister
